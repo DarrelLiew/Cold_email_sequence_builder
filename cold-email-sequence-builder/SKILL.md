@@ -68,8 +68,8 @@ Each email answers a different objection:
 
 ### Email 1: Pain first, then offer
 Flow: personalisation, problem, cost, solution, credibility, offer, CTA.
-1. Greeting with the company name, then a personalised line about something real in their business. Shows you did your homework.
-2. Problem as a direct question about a specific scene from their week. Open straight with the question ("Does month-end at your {{biz}} still land on a Sunday?"), then add 1 or 2 concrete details of the scene.
+1. Greeting with the company name, then a short personalised line about something real in their business. One sentence, no more. It shows you did your homework, then gets out of the way.
+2. Problem as a direct question about a specific scene from their week. Open straight with the question, no lead-in ("Does month-end at your {{biz}} still land on a Sunday?"). Add 1 or 2 short concrete details of the scene, and stop. The problem should be recognised in one read, not explained.
 3. The cost of that problem, from a source they would trust (what you have heard from owners like them, or your own data).
 4. Solution in one sentence, named, tied directly to that pain. Say what it does for them, not the deal.
 5. Credibility: how it has helped businesses like theirs, with a real number if you have one. If there is no proof yet, say it is a pilot.
@@ -78,6 +78,22 @@ Flow: personalisation, problem, cost, solution, credibility, offer, CTA.
 8. CTA that names the action and a time window, tied back to the pain. Example: "If that sounds like your Sundays, let me know when you're available this week and let's talk over a 15-minute call."
 
 Subject lines: 2 to 5 words, lowercase, include the company name, look like an internal message.
+
+### Recommended length (characters, including spaces)
+
+| Part | Target | Hard max |
+|---|---|---|
+| Subject line | 20 to 40 | 50 (mobile cuts off around 40) |
+| Intro / personalisation line | 60 to 100 | 120 |
+| Problem (question plus scene) | 150 to 250 | 300 |
+| Cost of the problem | 60 to 120 | 150 |
+| Solution plus proof | 150 to 250 | 300 |
+| Offer plus scarcity | 120 to 220 | 250 |
+| CTA | 80 to 140 | 160 |
+| Whole email 1 body | 600 to 900 | 1,000 |
+| Emails 2 and 3 body | 450 to 750 | 850 |
+
+The first 90 or so characters after the greeting show up as the inbox preview, so the intro and the start of the problem decide whether the email gets opened. Count characters after writing, and cut anything over the hard max. If per-lead personalisation lines run long, shorten them in the lead list rather than letting them bloat every email.
 
 ### Email 2: New asset, remove the effort objection
 1. "Following up on my last note." then straight into something new built for them, with at most one link.
@@ -106,7 +122,7 @@ Subject lines: 2 to 5 words, lowercase, include the company name, look like an i
 
 - The prospect's pain before your product. Never open with the solution.
 - Plain English, in the voice agreed in the interview. Default: conversational, owner to owner, contractions fine.
-- Paragraphs of 1 to 3 sentences. Email 1 up to about 150 words, emails 2 and 3 up to about 130.
+- Paragraphs of 1 to 3 sentences. Keep to the character counts in the length table. Short intro, short problem.
 - Use the prospect's industry nouns.
 - "We" for the sender, "you" and "your team" for the prospect.
 - Numerals for numbers.
@@ -163,6 +179,7 @@ Run every email and every variant through this pass before delivering. The goal 
    - "What still sounds AI-generated?"
    - "Did I add or drop any fact, number, name, quote or claim?" Any addition not from the interview is an error. Fix it.
 6. Search the final text for "—", "–" and "!" and remove them.
+7. Count characters per part against the length table and trim anything over the hard max.
 
 Deliver only the humanized version. Do not show the before and after unless the user asks.
 
@@ -182,6 +199,7 @@ Deliver only the humanized version. Do not show the before and after unless the 
 4. Segment wording table: each lead category mapped to its variable values.
 5. Pre-send checklist:
    - Every lead has every variable and link filled
+   - Personalisation lines are within 120 characters
    - Warm leads (already talking to you) are removed from the cold sequence
    - Every claim and scarcity line will be true on the day it lands
    - No items from the "Do not use" list, no dashes, no "!"

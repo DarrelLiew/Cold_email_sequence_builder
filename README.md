@@ -54,7 +54,7 @@ Ask Claude something like:
 
 Claude will start the interview. Answer as specifically as you can. The more real detail you give (what customers actually say, real numbers, real limits), the better the copy.
 
-See [`examples/interview-example.md`](examples/interview-example.md) for what a run looks like.
+See [`examples/interview-example.md`](examples/interview-example.md) for a sample interview and [`examples/full-output-example.md`](examples/full-output-example.md) for the full sequence it produces.
 
 ## Repo contents
 
@@ -63,7 +63,8 @@ cold-email-sequence-builder/
 ├── cold-email-sequence-builder/
 │   └── SKILL.md              # the skill itself
 ├── examples/
-│   └── interview-example.md  # a sample run
+│   ├── interview-example.md    # a sample interview
+│   └── full-output-example.md  # the full sequence it produces
 ├── README.md
 └── LICENSE
 ```
